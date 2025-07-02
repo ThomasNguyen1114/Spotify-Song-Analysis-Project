@@ -3,7 +3,7 @@
 This project analyzes how popular music has evolved over the past two decades using Spotify's audio features. By exploring genre trends from 2000 to 2019, it reveals how characteristics like **danceability**, **energy**, **valence**, **tempo**, and **speechiness** have shifted — and how each genre develops its own "audio fingerprint."
 
 **Full blog post on Medium:**  
-[Read it here]([https://medium.com/@thomascena/how-music-has-changed-a-spotify-genre-analysis-2000-2019-YOUR-POST](https://medium.com/@thomascena9/spotify-song-analysis-writing-and-summary-280084db0c74))
+[Read it here]([https://medium.com/@thomascena/how-music-has-changed-a-spotify-genre-analysis-2000-2019-YOUR-POST](https://medium.com/@thomascena9/spotify-song-analysis-writing-and-summary-280084db0c74])
 
 ---
 
