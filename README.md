@@ -50,6 +50,17 @@ This project analyzes how popular music has evolved over the past two decades us
 
 ---
 
+## Interactive Dashboard
+
+Try the live version: [Streamlit App](https://spotify-song-analysis-project-afsi7r4udmcyajxfmxykxq.streamlit.app/)
+
+## Project Structure
+- '/data/' - Raw Dataset
+- '/notebooks/' - EDA, trendline, radar analysis
+- '/app/streamlit_app.py' - Interactive Dashboard
+
+---
+
 ## How to Run the Project
 
 1. Clone the repository or open the notebook `01_data_setup_and_eda.ipynb` in Google Colab.
