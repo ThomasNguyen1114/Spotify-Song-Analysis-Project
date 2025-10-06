@@ -1,4 +1,4 @@
-# 🎵 Spotify Song Analysis Project
+# Spotify Song Analysis Project
 
 This project analyzes how popular music has evolved over the past two decades using Spotify's audio features. By exploring genre trends from 2000 to 2019, it reveals how characteristics like **danceability**, **energy**, **valence**, **tempo**, and **speechiness** have shifted — and how each genre develops its own "audio fingerprint."
 
@@ -7,7 +7,7 @@ This project analyzes how popular music has evolved over the past two decades us
 
 ---
 
-## 🔍 Key Questions Explored
+## Key Questions Explored
 
 - What features define a genre?
 - Which audio features show the strongest correlations with each other?
