@@ -50,14 +50,9 @@ This project analyzes how popular music has evolved over the past two decades us
 
 ---
 
-## Interactive Dashboard
-
-Try the live version: [Streamlit App](https://spotify-song-analysis-project-afsi7r4udmcyajxfmxykxq.streamlit.app/)
-
 ## Project Structure
 - '/data/' - Raw Dataset
 - '/notebooks/' - EDA, trendline, radar analysis
-- '/app/streamlit_app.py' - Interactive Dashboard
 
 ---
 
